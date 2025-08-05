@@ -1,0 +1,12 @@
+gif-converter-backend/venv/
+gif-converter-backend/__pycache__/
+gif-converter-backend/*.pyc
+
+gif-converter-frontend/node_modules/
+gif-converter-frontend/.next/
+gif-converter-frontend/out/
+gif-converter-frontend/.DS_Store
+gif-converter-frontend/*.log
+
+**/.env
+
