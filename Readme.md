@@ -98,7 +98,7 @@ To get a local copy up and running, follow these simple steps.
     ```
     The frontend will be running at `http://localhost:3000`.
 
-4.  **Open your browser** to `http://localhost:3000` and start converting!
+4.  **Open your browser** to `http://localhost:3000` and start converting!!
 
 ---
 ## API Endpoints
